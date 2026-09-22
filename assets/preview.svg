@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f3e8"/>
+  <circle cx="938" cy="313" r="250" fill="#f9e9b5"/>
+  <text x="92" y="120" fill="#9b8026" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="5">21 DE SEPTIEMBRE · FLORES AMARILLAS</text>
+  <text x="85" y="310" fill="#2d4638" font-family="Georgia,serif" font-size="120">Para ti,</text>
+  <text x="85" y="445" fill="#cba619" font-family="Georgia,serif" font-size="120" font-style="italic">Alejandra.</text>
+  <text x="94" y="525" fill="#617165" font-family="Arial,sans-serif" font-size="26">Un pequeño jardín hecho con mucho amor ♡</text>
+  <g transform="translate(935 318)">
+    <g fill="#f4c943" stroke="#e1aa29" stroke-width="3">
+      <ellipse cy="-130" rx="42" ry="95"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(30)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(60)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(90)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(120)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(150)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(180)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(210)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(240)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(270)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(300)"/><ellipse cy="-130" rx="42" ry="95" transform="rotate(330)"/>
+    </g>
+    <circle r="81" fill="#75502a"/><circle r="61" fill="none" stroke="#d2a45b" stroke-width="5" stroke-dasharray="3 14"/>
+  </g>
+</svg>
